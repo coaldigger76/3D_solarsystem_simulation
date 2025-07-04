@@ -1,0 +1,9 @@
+# Ignore node_modules if you use npm
+node_modules/
+
+# Ignore macOS and Windows junk files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
